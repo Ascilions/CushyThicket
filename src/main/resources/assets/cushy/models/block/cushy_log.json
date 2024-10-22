@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "cushy:block/cushy_log_top",
+    "side": "cushy:block/cushy_log_sides"
+  }
+}

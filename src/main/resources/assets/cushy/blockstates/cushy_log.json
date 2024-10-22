@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cushy:block/cushy_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cushy:block/cushy_log"
+    },
+    "axis=z": {
+      "model": "cushy:block/cushy_log_horizontal",
+      "x": 90
+    }
+  }
+}
